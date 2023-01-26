@@ -1,0 +1,13 @@
+C CS D DS E F FS G GS A AS B C2
+
+
+C C D C F E
+
+C D E F - 4 keys we need
+CS DS FS G GS A AS B C^ - 8 keys which will always fail
+
+
+C C D C F E
+C C D C G F
+C C C^ A F E D
+AS AS A F G F
