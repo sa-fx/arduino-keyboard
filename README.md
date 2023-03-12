@@ -1,6 +1,8 @@
 # arduino-keyboard
 ## *"Project Beethoven" - A miniature keyboard running on an Arduino*
 
+**This repository has been archived. Any and all changes to this code will be implemented [here](https://github.com/sa-fx/mini-piano).**
+
 This repository contains the code for a miniature keyboard. The keyboard supports 13 notes, spanning a full octave.
 
 If the first 6 notes of *Happy Birthday* are played, the keyboard will finish the song automatically.
